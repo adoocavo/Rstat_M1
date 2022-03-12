@@ -1,0 +1,9 @@
+Package: Rstat
+Title: Basic Statistical Methods in R
+Version: 0.0.0.1
+Authors@R: person("T.J.", "Lim", email = "tjlim@ssu.ac.kr", role = c("aut", "cre"))
+Description: To show and to visualize basic statistical results.
+Depends: R (>= 3.4.4)
+License: MIT
+LazyData: true
+RoxygenNote: 6.0.1
